@@ -1,4 +1,4 @@
-<img width="570" height="88" alt="image" src="https://github.com/user-attachments/assets/dc5fdc5f-eb58-4253-8fec-322720e9504c" /># A DATA CENTRIC APPROACH TO IMPROVE DIABETES DIAGNOSIS ACCURACY
+# A DATA CENTRIC APPROACH TO IMPROVE DIABETES DIAGNOSIS ACCURACY
 
 ## Implementation Methods
 - Data Acquisition and Pre-processing
