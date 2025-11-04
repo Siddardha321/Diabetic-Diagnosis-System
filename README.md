@@ -38,6 +38,7 @@ Developed an AI-based Diabetes Diagnosis System integrating Machine Learning (Gr
 
 <br>
 Author - Addugula Siddardha
+<br>
 B.Tech - AI & DS (2021-2025)
 
 
