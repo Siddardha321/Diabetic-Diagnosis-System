@@ -13,7 +13,7 @@ Developed an AI-based Diabetes Diagnosis System integrating Machine Learning (Gr
 ## Algorithms and Architecture 
 - Gradient Boosting
 - Manual Net Architecture
-- Lent Architecture
+- Lenet Architecture
 
 ## Features
 - Hybrid Diagnostic Approach
